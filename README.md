@@ -1,4 +1,4 @@
-# YouTube API / Data Pipeline (From collection to dataframe)
+# YouTube API / Data Pipeline ('From collection to Panda's DataFrame')
 
 In this tutorial I will explain how you could use YouTube API to collect and mundge the data from your YouTube videos, and put it into the Pandas dataframe.
 
